@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>889300396306-92bpjhf7pamvqlq87j95iski0983rkvb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.889300396306-92bpjhf7pamvqlq87j95iski0983rkvb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB6K3QRPEtYtUTvEA2G9jSax_6_vqbCOwY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>889300396306</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.tomodachi</string>
+	<key>PROJECT_ID</key>
+	<string>cmsc23-tomodachi</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cmsc23-tomodachi.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:889300396306:ios:e1a5626fbcc9c28a9f6bcb</string>
+</dict>
+</plist>

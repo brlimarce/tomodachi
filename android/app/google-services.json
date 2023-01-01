@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "889300396306",
+    "project_id": "cmsc23-tomodachi",
+    "storage_bucket": "cmsc23-tomodachi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889300396306:android:2cc9bc7ac23041a09f6bcb",
+        "android_client_info": {
+          "package_name": "com.example.tomodachi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889300396306-7t6vu6rjg9ld7c3hm20ou4kuaeu6eae5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxLJCyd-RJl21jNP_st03mKrHoU8zEA5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889300396306-7t6vu6rjg9ld7c3hm20ou4kuaeu6eae5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
